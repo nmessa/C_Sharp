@@ -1,0 +1,11 @@
+C:\Users\nmessa\Desktop\MyC#\Exercise 4\Widget\Widget\bin\Debug\Widget.exe
+C:\Users\nmessa\Desktop\MyC#\Exercise 4\Widget\Widget\bin\Debug\Widget.pdb
+C:\Users\nmessa\Desktop\MyC#\Exercise 4\Widget\Widget\obj\x86\Debug\Widget.Form1.resources
+C:\Users\nmessa\Desktop\MyC#\Exercise 4\Widget\Widget\obj\x86\Debug\Widget.Properties.Resources.resources
+C:\Users\nmessa\Desktop\MyC#\Exercise 4\Widget\Widget\obj\x86\Debug\Widget.csproj.GenerateResource.Cache
+C:\Users\nmessa\Desktop\MyC#\Exercise 4\Widget\Widget\obj\x86\Debug\Widget.exe
+C:\Users\nmessa\Desktop\MyC#\Exercise 4\Widget\Widget\obj\x86\Debug\Widget.pdb
+I:\SST\2018 - 2019 Courses\Programming II\MyC#\Lab Exercise 3.4.2019\Widget\Widget\obj\x86\Debug\Widget.exe
+I:\SST\2018 - 2019 Courses\Programming II\MyC#\Lab Exercise 3.4.2019\Widget\Widget\obj\x86\Debug\Widget.pdb
+G:\SST\2019 - 2020 Courses\Programming II\MyC#\Lab Exercise 3.3.2020\Widget\Widget\obj\x86\Debug\Widget.exe
+G:\SST\2019 - 2020 Courses\Programming II\MyC#\Lab Exercise 3.3.2020\Widget\Widget\obj\x86\Debug\Widget.pdb

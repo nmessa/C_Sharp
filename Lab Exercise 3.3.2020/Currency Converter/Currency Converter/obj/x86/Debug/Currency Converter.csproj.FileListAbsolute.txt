@@ -1,0 +1,16 @@
+C:\Users\nmessa\Desktop\MyC#\Exercise 4\Currency Converter\Currency Converter\bin\Debug\Currency Converter.exe
+C:\Users\nmessa\Desktop\MyC#\Exercise 4\Currency Converter\Currency Converter\bin\Debug\Currency Converter.pdb
+C:\Users\nmessa\Desktop\MyC#\Exercise 4\Currency Converter\Currency Converter\obj\x86\Debug\Currency_Converter.Form1.resources
+C:\Users\nmessa\Desktop\MyC#\Exercise 4\Currency Converter\Currency Converter\obj\x86\Debug\Currency_Converter.Properties.Resources.resources
+C:\Users\nmessa\Desktop\MyC#\Exercise 4\Currency Converter\Currency Converter\obj\x86\Debug\Currency Converter.csproj.GenerateResource.Cache
+C:\Users\nmessa\Desktop\MyC#\Exercise 4\Currency Converter\Currency Converter\obj\x86\Debug\Currency Converter.exe
+C:\Users\nmessa\Desktop\MyC#\Exercise 4\Currency Converter\Currency Converter\obj\x86\Debug\Currency Converter.pdb
+I:\SST\2018 - 2019 Courses\Programming II\MyC#\Lab Exercise 3.4.2019\Currency Converter\Currency Converter\obj\x86\Debug\Currency Converter.exe
+I:\SST\2018 - 2019 Courses\Programming II\MyC#\Lab Exercise 3.4.2019\Currency Converter\Currency Converter\obj\x86\Debug\Currency Converter.pdb
+I:\SST\2018 - 2019 Courses\Programming II\MyC#\Lab Exercise 3.4.2019\Currency Converter\Currency Converter\bin\Debug\Currency Converter.exe
+I:\SST\2018 - 2019 Courses\Programming II\MyC#\Lab Exercise 3.4.2019\Currency Converter\Currency Converter\bin\Debug\Currency Converter.pdb
+I:\SST\2018 - 2019 Courses\Programming II\MyC#\Lab Exercise 3.4.2019\Currency Converter\Currency Converter\obj\x86\Debug\Currency_Converter.Form1.resources
+I:\SST\2018 - 2019 Courses\Programming II\MyC#\Lab Exercise 3.4.2019\Currency Converter\Currency Converter\obj\x86\Debug\Currency_Converter.Properties.Resources.resources
+I:\SST\2018 - 2019 Courses\Programming II\MyC#\Lab Exercise 3.4.2019\Currency Converter\Currency Converter\obj\x86\Debug\Currency Converter.csproj.GenerateResource.Cache
+G:\SST\2019 - 2020 Courses\Programming II\MyC#\Lab Exercise 3.3.2020\Currency Converter\Currency Converter\obj\x86\Debug\Currency Converter.exe
+G:\SST\2019 - 2020 Courses\Programming II\MyC#\Lab Exercise 3.3.2020\Currency Converter\Currency Converter\obj\x86\Debug\Currency Converter.pdb

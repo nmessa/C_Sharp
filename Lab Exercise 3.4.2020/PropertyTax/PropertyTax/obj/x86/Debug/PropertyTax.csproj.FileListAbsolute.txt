@@ -1,0 +1,9 @@
+C:\Users\nmessa\Desktop\MyC#\Exercise 5\PropertyTax\PropertyTax\bin\Debug\PropertyTax.exe
+C:\Users\nmessa\Desktop\MyC#\Exercise 5\PropertyTax\PropertyTax\bin\Debug\PropertyTax.pdb
+C:\Users\nmessa\Desktop\MyC#\Exercise 5\PropertyTax\PropertyTax\obj\x86\Debug\PropertyTax.Form1.resources
+C:\Users\nmessa\Desktop\MyC#\Exercise 5\PropertyTax\PropertyTax\obj\x86\Debug\PropertyTax.Properties.Resources.resources
+C:\Users\nmessa\Desktop\MyC#\Exercise 5\PropertyTax\PropertyTax\obj\x86\Debug\PropertyTax.csproj.GenerateResource.Cache
+C:\Users\nmessa\Desktop\MyC#\Exercise 5\PropertyTax\PropertyTax\obj\x86\Debug\PropertyTax.exe
+C:\Users\nmessa\Desktop\MyC#\Exercise 5\PropertyTax\PropertyTax\obj\x86\Debug\PropertyTax.pdb
+G:\SST\2019 - 2020 Courses\Programming II\MyC#\Lab Exercise 3.4.2020\PropertyTax\PropertyTax\obj\x86\Debug\PropertyTax.exe
+G:\SST\2019 - 2020 Courses\Programming II\MyC#\Lab Exercise 3.4.2020\PropertyTax\PropertyTax\obj\x86\Debug\PropertyTax.pdb
