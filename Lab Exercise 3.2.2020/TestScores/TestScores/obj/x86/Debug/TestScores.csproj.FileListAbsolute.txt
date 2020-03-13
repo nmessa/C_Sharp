@@ -1,0 +1,11 @@
+C:\Users\nmessa\Desktop\MyC#\Lab Exercise 2.16.2018\TestScores\TestScores\bin\Debug\TestScores.exe
+C:\Users\nmessa\Desktop\MyC#\Lab Exercise 2.16.2018\TestScores\TestScores\bin\Debug\TestScores.pdb
+C:\Users\nmessa\Desktop\MyC#\Lab Exercise 2.16.2018\TestScores\TestScores\obj\x86\Debug\TestScores.Form1.resources
+C:\Users\nmessa\Desktop\MyC#\Lab Exercise 2.16.2018\TestScores\TestScores\obj\x86\Debug\TestScores.Properties.Resources.resources
+C:\Users\nmessa\Desktop\MyC#\Lab Exercise 2.16.2018\TestScores\TestScores\obj\x86\Debug\TestScores.csproj.GenerateResource.Cache
+C:\Users\nmessa\Desktop\MyC#\Lab Exercise 2.16.2018\TestScores\TestScores\obj\x86\Debug\TestScores.exe
+C:\Users\nmessa\Desktop\MyC#\Lab Exercise 2.16.2018\TestScores\TestScores\obj\x86\Debug\TestScores.pdb
+G:\SST\2019 - 2020 Courses\Programming II\MyC#\Lab Exercise 3.2.2020\TestScores\TestScores\obj\x86\Debug\TestScores.exe
+G:\SST\2019 - 2020 Courses\Programming II\MyC#\Lab Exercise 3.2.2020\TestScores\TestScores\obj\x86\Debug\TestScores.pdb
+C:\Users\nmessa\Desktop\C# for Server\Lab Exercise 3.2.2020\TestScores\TestScores\obj\x86\Debug\TestScores.exe
+C:\Users\nmessa\Desktop\C# for Server\Lab Exercise 3.2.2020\TestScores\TestScores\obj\x86\Debug\TestScores.pdb
