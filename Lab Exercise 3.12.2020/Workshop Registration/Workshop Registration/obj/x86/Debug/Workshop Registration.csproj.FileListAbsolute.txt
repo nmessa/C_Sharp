@@ -1,0 +1,11 @@
+C:\Users\nmessa\Desktop\MyC#\Exercise 11\Workshop Registration\Workshop Registration\bin\Debug\Workshop Registration.exe
+C:\Users\nmessa\Desktop\MyC#\Exercise 11\Workshop Registration\Workshop Registration\bin\Debug\Workshop Registration.pdb
+C:\Users\nmessa\Desktop\MyC#\Exercise 11\Workshop Registration\Workshop Registration\obj\x86\Debug\Workshop_Registration.Form1.resources
+C:\Users\nmessa\Desktop\MyC#\Exercise 11\Workshop Registration\Workshop Registration\obj\x86\Debug\Workshop_Registration.Properties.Resources.resources
+C:\Users\nmessa\Desktop\MyC#\Exercise 11\Workshop Registration\Workshop Registration\obj\x86\Debug\Workshop Registration.csproj.GenerateResource.Cache
+C:\Users\nmessa\Desktop\MyC#\Exercise 11\Workshop Registration\Workshop Registration\obj\x86\Debug\Workshop Registration.exe
+C:\Users\nmessa\Desktop\MyC#\Exercise 11\Workshop Registration\Workshop Registration\obj\x86\Debug\Workshop Registration.pdb
+G:\SST\2019 - 2020 Courses\Programming II\MyC#\Lab Exercise 3.12.2020\Workshop Registration\Workshop Registration\obj\x86\Debug\Workshop Registration.exe
+G:\SST\2019 - 2020 Courses\Programming II\MyC#\Lab Exercise 3.12.2020\Workshop Registration\Workshop Registration\obj\x86\Debug\Workshop Registration.pdb
+C:\Users\nmessa\Desktop\C# for Server\Lab Exercise 3.12.2020\Workshop Registration\Workshop Registration\obj\x86\Debug\Workshop Registration.exe
+C:\Users\nmessa\Desktop\C# for Server\Lab Exercise 3.12.2020\Workshop Registration\Workshop Registration\obj\x86\Debug\Workshop Registration.pdb
