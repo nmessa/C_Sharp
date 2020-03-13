@@ -1,0 +1,11 @@
+C:\Users\nmessa\Desktop\MyC#\Exercise 8\ISP\ISP\obj\x86\Debug\ISP.Form1.resources
+C:\Users\nmessa\Desktop\MyC#\Exercise 8\ISP\ISP\obj\x86\Debug\ISP.Properties.Resources.resources
+C:\Users\nmessa\Desktop\MyC#\Exercise 8\ISP\ISP\obj\x86\Debug\ISP.csproj.GenerateResource.Cache
+C:\Users\nmessa\Desktop\MyC#\Exercise 8\ISP\ISP\bin\Debug\ISP.exe
+C:\Users\nmessa\Desktop\MyC#\Exercise 8\ISP\ISP\bin\Debug\ISP.pdb
+C:\Users\nmessa\Desktop\MyC#\Exercise 8\ISP\ISP\obj\x86\Debug\ISP.exe
+C:\Users\nmessa\Desktop\MyC#\Exercise 8\ISP\ISP\obj\x86\Debug\ISP.pdb
+G:\SST\2019 - 2020 Courses\Programming II\MyC#\Lab Exercise 3.9.2020\ISP\ISP\obj\x86\Debug\ISP.exe
+G:\SST\2019 - 2020 Courses\Programming II\MyC#\Lab Exercise 3.9.2020\ISP\ISP\obj\x86\Debug\ISP.pdb
+C:\Users\nmessa\Desktop\C# for Server\Lab Exercise 3.9.2020\ISP\ISP\obj\x86\Debug\ISP.exe
+C:\Users\nmessa\Desktop\C# for Server\Lab Exercise 3.9.2020\ISP\ISP\obj\x86\Debug\ISP.pdb

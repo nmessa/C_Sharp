@@ -1,0 +1,11 @@
+C:\Users\nmessa\Desktop\MyC#\Exercise 8\Software Company\Software Company\bin\Debug\Software Company.exe
+C:\Users\nmessa\Desktop\MyC#\Exercise 8\Software Company\Software Company\bin\Debug\Software Company.pdb
+C:\Users\nmessa\Desktop\MyC#\Exercise 8\Software Company\Software Company\obj\x86\Debug\Software_Company.Form1.resources
+C:\Users\nmessa\Desktop\MyC#\Exercise 8\Software Company\Software Company\obj\x86\Debug\Software_Company.Properties.Resources.resources
+C:\Users\nmessa\Desktop\MyC#\Exercise 8\Software Company\Software Company\obj\x86\Debug\Software Company.csproj.GenerateResource.Cache
+C:\Users\nmessa\Desktop\MyC#\Exercise 8\Software Company\Software Company\obj\x86\Debug\Software Company.exe
+C:\Users\nmessa\Desktop\MyC#\Exercise 8\Software Company\Software Company\obj\x86\Debug\Software Company.pdb
+G:\SST\2019 - 2020 Courses\Programming II\MyC#\Lab Exercise 3.9.2020\Software Company\Software Company\obj\x86\Debug\Software Company.exe
+G:\SST\2019 - 2020 Courses\Programming II\MyC#\Lab Exercise 3.9.2020\Software Company\Software Company\obj\x86\Debug\Software Company.pdb
+C:\Users\nmessa\Desktop\C# for Server\Lab Exercise 3.9.2020\Software Company\Software Company\obj\x86\Debug\Software Company.exe
+C:\Users\nmessa\Desktop\C# for Server\Lab Exercise 3.9.2020\Software Company\Software Company\obj\x86\Debug\Software Company.pdb
