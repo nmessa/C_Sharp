@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zodiac Sign", "Zodiac Sign\Zodiac Sign.csproj", "{46287D6B-7557-4278-A7C1-1026225052C5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{46287D6B-7557-4278-A7C1-1026225052C5}.Debug|x86.ActiveCfg = Debug|x86
+		{46287D6B-7557-4278-A7C1-1026225052C5}.Debug|x86.Build.0 = Debug|x86
+		{46287D6B-7557-4278-A7C1-1026225052C5}.Release|x86.ActiveCfg = Release|x86
+		{46287D6B-7557-4278-A7C1-1026225052C5}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
