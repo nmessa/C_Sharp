@@ -1,5 +1,5 @@
 ﻿//Lab Exercise 3.25.2020 Problem 2
-//Author: nmessa
+//Author: 
 
 using System;
 using System.Collections.Generic;
@@ -22,43 +22,26 @@ namespace Polynomial_Plotter
         private void btnPlot_Click(object sender, EventArgs e)
         {
             //Declare variables
-            double[] x = new double[1001];
-            double[] y = new double[1001];
-            int ex;
-            double x0, x1, x2, x3, x4;
+            //Add code here
+
 
             //If any TextBox is empty (contains "") assign "0" to TextBox
-            if (txtX0.Text == "")
-                txtX0.Text = "0";
-            if (txtX1.Text == "")
-                txtX1.Text = "0";
-            if (txtX2.Text == "")
-                txtX2.Text = "0";
-            if (txtX3.Text == "")
-                txtX3.Text = "0";
-            if (txtX4.Text == "")
-                txtX4.Text = "0";
+            //Add code here
+
             
             //Convert all TextBoxes Text to double and store in x0, x1, x2, x3, x4, and x5
-            x0 = Convert.ToDouble(txtX0.Text);
-            x1 = Convert.ToDouble(txtX1.Text);
-            x2 = Convert.ToDouble(txtX2.Text);
-            x3 = Convert.ToDouble(txtX3.Text);
-            x4 = Convert.ToDouble(txtX4.Text);
+            //Add code here
+
 
             //Generate 1001 points at intervals of 0.02
-            for (int i = 0; i <= 1000; i++)
-            {
-                ex = (i - 500) / 50;
-                x[i] = ex;
-                y[i] = x4 * Math.Pow(ex,  4) + x3 * Math.Pow(ex, 3) + x2 * ex * ex + x1 * ex + x0;
-                chart1.Series[0].Points.AddXY(x[i], y[i]);
-            }
+            //Add code here
+
         }
 
         private void btnPrint_Click(object sender, EventArgs e)
         {
-            printForm1.Print();
+            //Add code here
+
         }
 
         private void btnExit_Click(object sender, EventArgs e)
@@ -68,13 +51,8 @@ namespace Polynomial_Plotter
 
         private void btnClear_Click(object sender, EventArgs e)
         {
-            txtX0.Text = "";
-            txtX1.Text = "";
-            txtX2.Text = "";
-            txtX3.Text = "";
-            txtX4.Text = "";
-            chart1.Series[0].Points.Clear();
-            txtX4.Focus();
+            //Add code here
+
         }
     }
 }

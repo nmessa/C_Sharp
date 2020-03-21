@@ -1,5 +1,5 @@
 ﻿//Lab Exercise 3.25.2020 Problem 1
-//Author: nmessa
+//Author: 
 
 using System;
 using System.Collections.Generic;
@@ -21,23 +21,14 @@ namespace Sin_Plotter
 
         private void btnPlot_Click(object sender, EventArgs e)
         {
-            double[] x = new double[360];
-            double[] y = new double[360];
-            double[] y2 = new double[360];
+            //Add code here
 
-            for (int i = 0; i <= 359; i++)
-            {
-                x[i] = Convert.ToDouble((i * Math.PI / 180).ToString("f2"));
-                y[i] = Math.Sin(x[i]);
-                chart1.Series[0].Points.AddXY(x[i], y[i]);
-                y2[i] = Math.Cos(x[i]);
-                chart1.Series[1].Points.AddXY(x[i], y2[i]);
-            }
         }
 
         private void btnPrint_Click(object sender, EventArgs e)
         {
-            printForm1.Print();
+            //Add code here
+
         }
 
         private void btnExit_Click(object sender, EventArgs e)
