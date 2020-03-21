@@ -1,4 +1,4 @@
-﻿//Lab Exercise 3,24.2020 Problem 2
+﻿//Lab Exercise 3.24.2020 Problem 2
 //Author: nmessa
 
 using System;
@@ -53,81 +53,14 @@ namespace Zodiac_Sign
 
         private void btnClear_Click(object sender, EventArgs e)
         {
-            lblSign.Text = "";
-            txtBirthday.Text = "";
-            txtBirthday.Focus();
-            pbZodiac.Image = pbNull.Image;
+            //Add code here
+
         }
 
         private void btnSign_Click(object sender, EventArgs e)
         {
-            DateTime birthday;
-            string[] d = txtBirthday.Text.Split('/');
-            DateTime temp = DateTime.Now;
-            int year = temp.Year;
-            int month = Convert.ToInt32(d[0]);
-            int day = Convert.ToInt32(d[1]);
-            birthday = new DateTime(year, month, day);
-            if (birthday >= startAqarius && birthday <= endAqarius)
-            {
-                this.lblSign.Text = "Aqarius";
-                pbZodiac.Image = pbAquarius.Image;
-            }
-            else if (birthday >= startPisces && birthday <= endPisces)
-            {
-                this.lblSign.Text = "Pisces";
-                pbZodiac.Image = pbPisces.Image;
-            }
-            else if (birthday >= startAries && birthday <= endAries)
-            {
-                this.lblSign.Text = "Aries";
-                pbZodiac.Image = pbAries.Image;
-            }
-            else if (birthday >= startTaurus && birthday <= endTaurus)
-            {
-                this.lblSign.Text = "Taurus";
-                pbZodiac.Image = pbTaurus.Image;
-            }
-            else if (birthday >= startGemini && birthday <= endGemini)
-            {
-                this.lblSign.Text = "Gemini";
-                pbZodiac.Image = pbGemini.Image;
-            }
-            else if (birthday >= startCancer && birthday <= endCancer)
-            {
-                this.lblSign.Text = "Cancer";
-                pbZodiac.Image = pbCancer.Image;
-            }
-            else if (birthday >= startLeo && birthday <= endLeo)
-            {
-                this.lblSign.Text = "Leo";
-                pbZodiac.Image = pbLeo.Image;
-            }
-            else if (birthday >= startVirgo && birthday <= endVirgo)
-            {
-                this.lblSign.Text = "Virgo";
-                pbZodiac.Image = pbVirgo.Image;
-            }
-            else if (birthday >= startLibra && birthday <= endLibra)
-            {
-                this.lblSign.Text = "Libra";
-                pbZodiac.Image = pbLibra.Image;
-            }
-            else if (birthday >= startScorpio && birthday <= endScorpio)
-            {
-                this.lblSign.Text = "Scorpio";
-                pbZodiac.Image = pbScorpio.Image;
-            }
-            else if (birthday >= startSagittarius && birthday <= endSagittarius)
-            {
-                this.lblSign.Text = "Sagittarius";
-                pbZodiac.Image = pbSagittarius.Image;
-            }
-            else
-            {
-                this.lblSign.Text = "Capricorn";
-                pbZodiac.Image = pbCapricorn.Image;
-            }
+            //Add code here
+
         }
     }
 }
