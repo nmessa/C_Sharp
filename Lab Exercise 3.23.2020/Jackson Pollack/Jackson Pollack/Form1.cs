@@ -47,14 +47,16 @@ namespace Jackson_Pollack
             //Create the shapes
             //Add code here
 
-            }
+            
 
             //Check if print desired
             //Add code here
 
 
+
             //Send image to default printer
             //Add code here
+        
 
 
             //Pause program for 5 seconds
